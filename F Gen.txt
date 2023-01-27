@@ -1,0 +1,5 @@
+A python apk that generates a random fact about a specific topic[input]
+per what the user specifies. 
+Get import data from a facts file{module, libaray or whatever}
+Limelight-apk where users are equally distrabuted amoongst each other
+for recognition
